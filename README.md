@@ -10,9 +10,7 @@ This project is a **metric-to-imperial unit converter** where users can input a 
 
 ## 🚀 Features
 - Users can enter a number to convert it across multiple units in real-time.
-- Length conversions between meters and feet are calculated dynamically.
-- Volume conversions between liters and gallons are calculated dynamically.
-- Mass conversions between kilograms and pounds are calculated dynamically.
+- Length, volume, and mass conversions are calculated dynamically.
 - Input validation prevents invalid entries and alerts the user.
 - Conversion results are displayed clearly in the DOM for easy reading.
 
