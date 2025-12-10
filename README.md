@@ -14,7 +14,7 @@ Converts length, volume, and mass in real-time with results rounded to three dec
 - Input validation for invalid entries.
 - Clear display of results.
 
-## 🧠 What I Learned 
+## 🧩 Concepts Practiced
 - Reading user input and updating the DOM.
 - Organizing reusable functions for conversion and rendering.
 - Number formatting and rounding (`toFixed()`).
