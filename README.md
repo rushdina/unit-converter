@@ -1,35 +1,30 @@
-# 🔄 Unit Converter
+# ⚖️ Unit Converter
 
-A metric-to-imperial converter solo project from the [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j).  
-Converts length, volume, and mass in real-time with results rounded to three decimals.
-
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript (ES6)
-
-## 🚀 Features
-- Real-time conversion for multiple units.
-- Dynamic calculation and DOM update.
-- Input validation for invalid entries.
-- Clear display of results.
-
-## 🧩 Concepts Practiced
-- Reading user input and updating the DOM.
-- Organizing reusable functions for conversion and rendering.
-- Number formatting and rounding (`toFixed()`).
-- Basic input validation with `isNaN`.
-
-## 💡 Future Improvements
-- Add more unit categories (temperature, speed, etc.).
-- Live conversion while typing.
-- Enhanced input validation and error messages.
+A metric-to-imperial unit converter solo project from the [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j).  
+Converts length, volume, and mass with results rounded to three decimals.
 
 ## 🖼️ Preview
+🔗 Live Demo: https://scrimba-unit-converter-rushdina.netlify.app/
 
 ![Unit Converter Preview](images/screenshot-unitConverter.png)
 
-## 🙌 Credits
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+
+## 📚 What I Learned 
+- Dynamically generating conversion results using JS
+- Modular functions for reusable logic
+- Using arrays of objects to manage unit data
+- Forward and backward conversions with rounding
+- DOM manipulation to update multiple elements at once
+- Input validation and user feedback with alerts
+
+## 💡 Future Improvements
+- Add more unit categories (e.g., temperature, area, speed)
+- Allow keyboard "Enter" key to trigger conversion
+- Live conversion while typing.
+- Enhanced input validation and error messages.
+
+## 🙌 Acknowledgements
 - **Scrimba course:** [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
 - **Design reference:** [Figma by Scrimba](https://www.figma.com/design/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0-1&p=f&t=tEvEgoYoLIuq4LOS-0)
-
