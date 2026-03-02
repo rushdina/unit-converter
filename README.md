@@ -25,5 +25,5 @@ A metric-to-imperial unit converter that converts length, volume, and mass with 
 - Enhanced input validation and error messages.
 
 ## 🙌 Acknowledgements
-- **Scrimba course:** [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
-- **Design reference:** [Figma by Scrimba](https://www.figma.com/design/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0-1&p=f&t=tEvEgoYoLIuq4LOS-0)
+- Solo project from [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
+- Design reference from [Figma by Scrimba](https://www.figma.com/design/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0-1&p=f&t=tEvEgoYoLIuq4LOS-0)
