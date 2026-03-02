@@ -3,12 +3,11 @@
 A metric-to-imperial unit converter that converts length, volume, and mass with results rounded to three decimals.
 
 ## 🖼️ Preview
-🔗 Live Demo: https://scrimba-unit-converter-rushdina.netlify.app/
-
+🔗 Live Demo: https://unit-converter-rushdina.netlify.app/
 ![Unit Converter Preview](images/screenshot-unitConverter.png)
 
-## 🛠️ Tech Stack
-- `HTML`, `CSS`, `JavaScript`
+## 🛠️ Technologies Used
+- **Frontend:** `HTML`, `CSS`, `JavaScript`
 
 ## 📚 What I Learned 
 - Dynamically generating conversion results using JS
